@@ -11,7 +11,7 @@ Cómo Pueden Usarlo los Usuarios 🛠️
 Clona el repositorio en tu máquina local:
 bash
 Copiar código
-git clone https://github.com/Cheryl-MPP/ConversorDeMonedasAlura.git 
+git clone https://github.com/Cheryl-MPP/ConversorDeMonedasAlura.git
 Configura el entorno siguiendo las instrucciones del archivo README o SETUP.md.
 Ejecuta la aplicación:
 Si es una aplicación web, abre http://localhost:5000 en tu navegador.
@@ -23,5 +23,5 @@ Soporte en línea:
 Publica tus dudas en la sección de Issues del repositorio aquí.
 Contacta al autor principal del proyecto a través del correo electrónico: cherylm28@live.com
 Autores del Proyecto 👥
-Cheryl: https://github.com/Cheryl-MPP/ConversorDeMonedasAlura
+Cheryl: https://github.com/Cheryl-MPP/
 ¡Gracias por usar el Conversor de Moneda! Si te resulta útil, considera darle una estrella ⭐ al repositorio. 😊
